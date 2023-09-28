@@ -1,0 +1,14 @@
+C:\Codes\C#\Console\Consoles\Consoles\bin\Debug\net7.0\Consoles.exe
+C:\Codes\C#\Console\Consoles\Consoles\bin\Debug\net7.0\Consoles.deps.json
+C:\Codes\C#\Console\Consoles\Consoles\bin\Debug\net7.0\Consoles.runtimeconfig.json
+C:\Codes\C#\Console\Consoles\Consoles\bin\Debug\net7.0\Consoles.dll
+C:\Codes\C#\Console\Consoles\Consoles\bin\Debug\net7.0\Consoles.pdb
+C:\Codes\C#\Console\Consoles\Consoles\obj\Debug\net7.0\Consoles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\C#\Console\Consoles\Consoles\obj\Debug\net7.0\Consoles.AssemblyInfoInputs.cache
+C:\Codes\C#\Console\Consoles\Consoles\obj\Debug\net7.0\Consoles.AssemblyInfo.cs
+C:\Codes\C#\Console\Consoles\Consoles\obj\Debug\net7.0\Consoles.csproj.CoreCompileInputs.cache
+C:\Codes\C#\Console\Consoles\Consoles\obj\Debug\net7.0\Consoles.dll
+C:\Codes\C#\Console\Consoles\Consoles\obj\Debug\net7.0\refint\Consoles.dll
+C:\Codes\C#\Console\Consoles\Consoles\obj\Debug\net7.0\Consoles.pdb
+C:\Codes\C#\Console\Consoles\Consoles\obj\Debug\net7.0\Consoles.genruntimeconfig.cache
+C:\Codes\C#\Console\Consoles\Consoles\obj\Debug\net7.0\ref\Consoles.dll
